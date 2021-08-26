@@ -1,0 +1,71 @@
+@charset "shift_jis";  /* -*- Mode:C++; tab-width:2; indent-tabs-mode: nil; -*- */
+/*********************************************************************/
+/* global_sub_contents.css */
+/*********************************************************************/
+
+#sub_contents {
+  float: right;
+  width: 37%;
+  height: 100%;
+  position: relative;
+  background: #f7ffe1;
+  border-left: 1px solid #2f5982;
+  border-bottom: 1px solid #2f5982;
+  margin: 0;
+  padding: 0px;
+}
+
+#sub_contents #layout_box {
+  padding: 0.5em;
+  position: relative;
+}
+
+#sub_contents h2 {
+  /*  color: #a80000;*/
+  color: #003600;
+  width: auto;  
+  position: relative;  
+  background:  #FAE294;  
+  border-top: 2px solid #FEC01F;
+  border-bottom: 2px solid #FEC01F;  
+  margin: 5px 6px;  
+  padding: 1px 0px 1px 4px;  
+  font-size: 0.9em;
+  font-weight: bold;
+}
+
+#sub_contents h3 {
+  /*  color: #a80000;*/
+  color: #003600;
+  width: 96%;  
+  position: relative;  
+  background:  #FAE294;  
+  border-top: 2px solid #FEC01F;
+  border-bottom: 2px solid #FEC01F;  
+  margin: 5px 4px;  
+  padding: 1px 0px 1px 4px;  
+  font-size: 0.9em;
+  font-weight: bold;
+}
+
+
+
+#sub_contents h4 {
+  /*  color: #a80000;*/
+  color: #003600;
+  width: 96%;  
+  position: relative;  
+  background:  #FAE294;  
+  border-top: 2px solid #FEC01F;
+  border-bottom: 2px solid #FEC01F;  
+  margin: 5px 4px;  
+  padding: 1px 0px 1px 4px;  
+  font-size: 0.9em;
+  font-weight: bold;
+}
+
+#sub_contents p {
+  margin: 0.5em 0.8em 1.0em;
+}
+
+/*-- end of css --*/

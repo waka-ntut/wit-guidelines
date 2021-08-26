@@ -1,0 +1,86 @@
+@charset "shift_jis";  /* -*- Mode:C++; tab-width:2; indent-tabs-mode: nil; -*- */
+/*********************************************************************/
+/* global_footer.css */
+/*********************************************************************/
+
+#footer {
+  width: 100%;
+  height: auto;
+  margin: 0px;
+  padding: 0;
+  background: #2f5982;
+  clear: both;
+  position: relative;
+}
+
+/* site_info */
+#footer #site_info {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  clear: both;
+  position: relative;
+}
+
+#footer #site_info ul {
+  margin: 0;
+  padding: 0;
+}
+
+#footer #site_info li {
+  margin: 0;
+  padding: 0.2em 0.5em;
+  list-style: none;
+  white-space: nowrap;
+  float: right;
+}
+
+#footer #site_info a {
+  color: #ffffff;
+  text-decoration: none;
+  padding-top: 1px;
+}
+
+/*
+#footer #site_info a: link, #footer #site_info a: visited {
+  border-bottom: 1px solid #ffffff;
+}
+*/
+
+#footer #site_info a:link {
+  border-bottom: 1px solid #ffffff;
+}
+
+#footer #site_info a:visited {
+  border-bottom: 1px solid #ffffff;
+}
+
+#footer #site_info a:hover {
+  border-bottom: 2px solid #ff9900;
+  border-top: 1px solid #ff9900;
+  color: #ff9900;
+}
+
+#footer #site_info .here {
+  font-weight: bold;
+  color: #ffffff;
+}
+
+/* copy */
+#footer #copy {
+  margin: 0;
+  padding: 0;
+  clear: both;
+  border-top: 2px solid #ffffff;
+  position: relative;
+  background: #183852;
+}
+
+#footer #copy p {
+  margin: 0;
+  padding: 0;
+  color: #ffffff;
+  text-align: center;
+}
+
+/*-- end of css --*/

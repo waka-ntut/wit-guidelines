@@ -1,0 +1,25 @@
+@charset "shift_jis"; 
+
+#header {
+  display : none;
+}
+
+.to_top_footer {
+  display : none;
+}
+
+.to_top_no_sub {
+  display : none;
+}
+
+.hidden_link {
+  display : none;
+}
+
+#site_info {
+  display : none;
+}
+
+h1, h2 {
+  font-size: 120%;
+}

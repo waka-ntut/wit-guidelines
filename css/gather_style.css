@@ -1,0 +1,10 @@
+@charset "utf-8";  /* -*- Mode: C++; tab-width: 2; indent-tabs-mode: nil; -*- */
+/********************************************************************/
+/*  Infoaxia : GLOBAL STYLE                                         */
+/********************************************************************/
+
+@import url("global_base.css");
+@import url("global_header.css");
+@import url("global_main_contents.css");
+@import url("global_sub_contents.css");
+@import url("global_footer.css");

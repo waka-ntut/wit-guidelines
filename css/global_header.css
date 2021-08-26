@@ -1,0 +1,139 @@
+@charset "shift_jis"; /* -*- Mode:C++; tab-width:2; indent-tabs-mode: nil; -*- */
+/*********************************************************************/
+/* global_header.css */
+/*********************************************************************/
+
+#header {
+  background: #1a3954 url(../images/header_bg.jpg) no-repeat right top;
+  position: relative;
+  padding: 0px;
+  margin: 0px;
+  width: 100%;
+  border-top: 2px solid #ffffff;
+  border-bottom: 2px solid #ffffff;
+  font-size: 0.9em;
+  font-weight: 500;
+}
+
+#header h1 {
+  margin: 0px;
+}
+
+#header img {
+  border: 0px;
+}
+
+#header .main_menu {
+  float: left;
+  margin: 0px;
+}
+
+#header #site_id {
+  margin-bottom: -4px;
+}
+
+/* breadcrumbs(topic path) */
+#header #breadcrumbs {
+  width: 100%;
+  background-color: #ffffff;
+  border-bottom: 2px solid #1a3954;
+  position: relative;
+  margin: 0px;
+  clear: both;
+}
+
+#header #breadcrumbs p {
+  font-size: 1em;
+  margin: 0;
+  padding: 4px 9px 2px;
+}
+
+#page_start {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+/* site_navi */
+#navi {
+  width: 100%;
+  clear: both;
+  border-top: 2px solid #fff;
+  margin: 0px;
+  padding: 0px;
+  position: relative;
+  background: #1a3954;
+}
+
+#navi ul {
+  font-size: 1em;
+  line-height: 1.7em;
+  display: inline;
+}
+
+#navi li {
+  margin: 0px 1px 0px 1px;
+  color: #ffff88;
+  list-style: none;
+  white-space: nowrap;
+  text-align: center;
+  line-height: 2em;
+  float: left;
+}
+
+#navi .here {
+  padding: 0px 0em 0px 0px;
+  font-weight: bold;
+  color: #1A3954;
+  background: #ffffb8;
+}
+
+#navi .here div {
+  margin: auto;
+}
+
+#navi .home {
+  width: 4em;
+}
+
+#navi .about {
+  width: 4.5em;
+}
+
+#navi .activity {
+  width: 5em;
+}
+
+#navi .program {
+  width: 8.3em;
+}
+
+#navi .presenter {
+  width: 7.3em;
+}
+
+#navi .guidelines {
+  width: 8.5em;
+}
+
+#navi .english {
+  width: 4em;
+}
+
+#navi a {
+  text-decoration: none;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+#navi a:link, #navi a:visited {
+  border-bottom: 1px solid #ffffff;
+}
+
+#navi a:hover {
+  border-bottom: 2px solid #ffff88;
+  border-top: 1px solid #ffff88;
+  color: #ffff88;
+}
+
+/*-- end of css --*/
