@@ -31,4 +31,5 @@
 
 更新できるかテスト
 
+Visual Studio Codeから更新してみたテスト
 
