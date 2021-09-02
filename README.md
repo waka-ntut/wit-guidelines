@@ -33,3 +33,4 @@
 
 Visual Studio Codeから更新してみたテスト
 
+Shift+command+EでGitHubにExportできるはず
