@@ -6,6 +6,7 @@
 > https://www.ieice.org/~wit/guidelines/index01.html
 * DやHのタグがついている項目の確認
 * 3．発表時アクセシビリティガイドラインの内容改訂
+* 色使いって印刷のことではないか？
 
 ### 学会・研究会等における情報保障マニュアル（Ver.1.0）
 > https://www.ieice.org/~wit/guidelines/index03.html
@@ -33,3 +34,4 @@
 
 Visual Studio Codeから更新してみたテスト
 
+Shift+command+EでGitHubにExportできるはず
