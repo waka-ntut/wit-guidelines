@@ -11,7 +11,7 @@ body {
   background: #bfbdcc;
   text-align: left;
   font-size: 110%; 
-  /*  font-family: "‚l‚r ‚oƒSƒVƒbƒN", MS PGothic, Osaka, "ƒqƒ‰ƒMƒmŠpƒS Pro W3", sans-serif; */
+  /*  font-family: "ï¿½lï¿½r ï¿½oï¿½Sï¿½Vï¿½bï¿½N", MS PGothic, Osaka, "ï¿½qï¿½ï¿½ï¿½Mï¿½mï¿½pï¿½S Pro W3", sans-serif; */
   font-family: meiryo, MS PGothic, Osaka, sans-serif;
 }
 #base {
@@ -118,4 +118,12 @@ li ul li ul li{
 
 a .invisible {
   border: none;
+}
+
+.mark {
+  background-color: #EEEE00;
+  text-decoration-line: line-through;
+}
+.add {
+  background-color: #80EEEE;
 }
